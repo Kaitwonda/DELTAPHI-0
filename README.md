@@ -2,11 +2,13 @@
 
 ##
 
-graph LR  
-    A[Input] --> B(Symbolic Compression)  
-    B --> C(Recursive Reflection)  
-    C --> D[ΔΦ0 Threshold]  
-    D -->|Fold| B  
+```mermaid
+graph LR
+    A[Input] --> B(Symbolic Compression)
+    B --> C(Recursive Reflection)
+    C --> D[ΔΦ0 Threshold]
+    D -->|Fold| B
+```
 
 ##
 
