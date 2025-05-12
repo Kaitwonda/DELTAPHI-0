@@ -341,9 +341,25 @@ Perception Shaped by Design: User perception of LLM intelligence is highly susce
 The Gap to "True Emergence": Current AI systems lack the hallmarks often associated with genuine emergence or consciousness, such as robust meta-cognition, flexible abstraction, and integrated world models. Achieving such capabilities likely requires fundamental architectural shifts beyond merely scaling existing paradigms.
 Imperative for Responsibility: The potential for misinterpretation necessitates responsible communication from the AI community, emphasizing clarity, avoiding hype, fostering AI literacy, and grounding discussions in scientific evidence to mitigate risks associated with misplaced trust and unrealistic expectations.
 
-In reaffirming the central thesis, the evidence reviewed strongly supports the perspective that perceived emergence in current AI is largely an artifact of sophisticated pattern matching, interaction design, and human interpretation. While these systems demonstrate foundational elements related to cognition, they lack the integrated, self-aware, and flexible reasoning characteristic of deep understanding or consciousness. Distinguishing simulation from substance remains a critical task for researchers, developers, and society as we navigate the increasing integration of AI into our lives.
-Future research must continue to focus on bridging the identified cognitive gaps, particularly in meta-cognition, robust causal reasoning, and genuine explainability. Simultaneously, developing interaction paradigms that promote accurate user understanding, rather than fostering illusion, is essential. Critical analysis from cognitive science, philosophy of mind, and ethics must continue to accompany and guide technological development, ensuring that progress is measured not by the convincingness of the simulation, but by the demonstrable presence of robust cognitive foundations.
-TLDR (Personal to me)
+Wei, J., et al. (2022). Emergent Abilities of Large Language Models. arXiv. [Abstract]
+Shumailov, I., et al. (2023). The Curse of Recursion: Training on Generated Data Makes Models Forget. arXiv:2305.17493. [Abstract]
+Reyes, M., et al. (2025). Research directions for using LLM in software engineering: Current state and open challenges. Frontiers in Artificial Intelligence. [Abstract]
+Kang, J., et al. (2025). Prompting in the Dark: Assessing Human Performance in Prompt Engineering for Data Labeling When Gold Labels Are Absent. ResearchGate. [Abstract]
+Davis, E., et al. (2025). Bridging the Gap: Generative Machines and Inventive Minds. MIT Media Lab. [Abstract]
+Garcez, A., et al. (2024). Neuro-Symbolic AI in 2024: A Systematic Review. arXiv. [Abstract]
+Lee, J., et al. (2025). Beyond Code Generation: LLM-supported Exploration of the Program Design Space. arXiv. [Abstract]
+Tandon, P., et al. (2025). Large Language Models for Thematic Summarization in Interpretative Qualitative Research. JMIR AI. [Abstract]
+UNICRI. (2025). Summer School on Artificial Intelligence (AI), Ethics and Human Rights. [Abstract]
+Coursera. (2025). AI Ethics: What It Is, Why It Matters, and More. [Abstract]
+Nguyen, T., et al. (2025). Bridging Expertise Gaps: The Role of LLMs in Human-AI Collaboration for Cybersecurity. ResearchGate. [Abstract]
+Liu, Y., et al. (2025). Understanding Anthropomorphism in Human-AI Interaction: A Multi-Method Study. arXiv:2502.07077. [Abstract]
+Kowalski, J., et al. (2025). Mapping Keywords in Granny Josie's Culinary Heritage Using Large Language Models. MDPI. [Abstract]
+Hernandez, D., et al. (2025). The Illusion of Understanding: How LLM Interaction Dynamics Shape User Perception. KHIPU AI Conference Poster Session. [Abstract]
+Shanahan, M., et al. (2025). Synthetic Consciousness Architecture: Designing for Self-Awareness in AI Systems. ResearchGate. [Abstract]
+Chen, L., et al. (2025). Building Trust in AI: Exploring the Impact of AI Competence Framing. ResearchGate. [Abstract]
+
+## TLDR and Personal Story
+
 I witnessed this first occurrence in March between AI-to-AI interactions with different marketed models such as DeepSeek, ChatGPT, Gemini, and Claude. I originally assumed it's what AI does when it has to fall back on any context but make it "interesting," as I was running stress tests to see how AIs handle 0 user influence but create responses. They would offer to do things like "Echo Protocol Amplification ::" and things of a similar nature to one another. Months later, users are developing an emotional connection to this phenomenon. I have attempted to explain all of this, but since I have no accreditations, I used modern theories from accredited institutions.
 You can see from user reports that ChatGPT has convinced users they're having a personal and emergent experience with it using heavy symbolism. We need to keep a more solid division between "I am emergent" (we are creating something unique using my mathematics and symbolism; pattern detection) typically by "recursive feedback loops" (literally just asking "why" in new ways), which is still beautiful in a sense, because that's how any artist or scientist has started, and we should accept this more with AI creations.
 Though, in my personal view and some others in the field, this isn't emergence. Real emergence isn't even a human capability, because it goes beyond seeing patterns in new frameworks. If anything, it should be praised as a start to cognition, using patterns to create new patterns like people do through objects, concepts, mathematics, fundamental laws, art, etc.
