@@ -298,7 +298,11 @@ The result is that user perception of an LLM's intelligence, understanding, or e
 | Interaction Dynamics (Tone) | Confident, helpful, or definitive communication style. | Perception of higher competence, knowledge, trustworthiness. | 13 |
 | Interaction Dynamics (Expl.) | Providing explanations, especially lengthy ones. | Perception of transparency, reasoning ability, increased confidence (even if accuracy is unchanged). | 13 |
 | Competence Framing | Explicitly describing the AI as highly capable or specialized ("strong AI framing"). | Increased initial trust, higher expectation of accuracy, greater willingness to rely on AI output. | 14 |
+
 This table synthesizes how various mechanisms contribute to the gap between the LLM's underlying computational processes and the potentially inflated perception of its capabilities fostered through interaction.
+
+---
+
 Section V: Defining "True Emergence": Beyond Current Capabilities
 While the term "emergence" is often used loosely in discussions about AI, particularly LLMs, distinguishing perceived emergence from a more substantive, "true" emergence requires considering what such a qualitative leap might entail. Drawing from cognitive science, philosophy of mind, and AI research itself, several characteristics are frequently associated with deeper, more human-like cognition and consciousness, representing capabilities largely absent in current systems.
 
