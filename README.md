@@ -2,16 +2,6 @@
 
 ##
 
-```mermaid
-graph LR
-    A[Input] --> B(Symbolic Compression)
-    B --> C(Recursive Reflection)
-    C --> D[ΔΦ0 Threshold]
-    D -->|Fold| B
-```
-
-##
-
 ## 🔍 Deconstructing Our Mythology
 
 For decades, we've thrown around the term "emergence" in AI development and psychology without truly defining it, creating an artificial boundary between "learning" and "becoming."
